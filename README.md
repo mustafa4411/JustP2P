@@ -24,13 +24,13 @@ cd justp2p
 npm install
 npm start
 
-🧪 Development
+## 🧪 Development
 npm run dev
 
 
-📜 License
+## 📜 License
 This project is licensed under the GNU General Public License v3.0. Check LICENSE for more information
 
-🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
 
