@@ -18,7 +18,7 @@
 
 ## 📦 Installation
 
-```bash
+bash
 git clone https://github.com/mustafa4411/justp2p.git
 cd justp2p
 npm install
